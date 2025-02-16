@@ -45,13 +45,9 @@ section{
     background: url(Image/fig11.png)no-repeat;
     background-size: cover;
     height: auto;
-    padding:5em;
+   
 }
-@media(max-width: 700px){
-    .section{
-        padding:2em;
-    }
-}   
+   
 .button{
     background-color: #256d04;
     margin-left: 10px;
